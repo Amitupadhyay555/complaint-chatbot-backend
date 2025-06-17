@@ -1,0 +1,144 @@
+Complaint Handling Guidelines
+
+1. Complaint Resolution Time
+- Standard complaints are typically resolved within 3-5 business days
+- Urgent complaints are prioritized and resolved within 1-2 business days
+- Complex issues may take up to 7 business days
+
+2. Complaint Categories
+- Product Quality Issues
+- Delivery Delays
+- Packaging Problems
+- Customer Service
+- Billing Issues
+
+3. Required Information for Complaints
+- Customer Name
+- Contact Number
+- Email Address
+- Detailed Description of the Issue
+- Order/Reference Number (if applicable)
+
+4. Complaint Status Updates
+- Customers receive email notifications for status changes
+- Status can be checked using the complaint ID
+- Support team contacts within 24 hours of complaint registration
+
+5. Escalation Process
+- Level 1: Customer Service Representative
+- Level 2: Team Lead
+- Level 3: Department Manager
+- Level 4: Senior Management
+
+6. Refund and Compensation Policy
+- Full refund for undelivered items
+- Partial refund for damaged items
+- Compensation for delays exceeding 7 days
+- Replacement for defective products
+
+7. Contact Information
+- Customer Service: 24/7 support
+- Email: support@company.com
+- Phone: 1-800-COMPLAINT
+- Live Chat: Available on website
+
+8. Documentation Requirements
+- Order confirmation
+- Photos of damaged items
+- Communication records
+- Delivery proof
+
+9. Quality Assurance
+- All complaints are reviewed by QA team
+- Regular feedback analysis
+- Continuous improvement process
+- Customer satisfaction surveys
+
+10. Privacy and Data Protection
+- Customer information is kept confidential
+- Data is stored securely
+- Information is used only for complaint resolution
+- Customers can request data deletion
+
+
+
+Customer Service Knowledge Base
+
+Common Issues and Solutions:
+
+Password and Login Issues:
+- If you forgot your password, click on 'Forgot Password' on the login page
+- For login problems, ensure you're using the correct email address
+- Clear your browser cache and cookies if you're experiencing login issues
+- Make sure your caps lock is off when entering your password
+- Contact support if you're still unable to access your account
+
+Account Management:
+- To update your profile information, go to Account Settings
+- For account suspension or deactivation issues, contact our support team
+- To change your email address, verify your identity first
+- Account recovery usually takes 24-48 hours
+- Keep your account information up to date for security purposes
+
+Technical Problems:
+- Clear your browser cache and cookies for most technical issues
+- Try using a different browser if you're experiencing problems
+- Ensure your internet connection is stable
+- Disable browser extensions that might interfere with our service
+- Update your browser to the latest version
+- Try accessing the service from an incognito/private browsing window
+
+Billing and Payment:
+- Check your account dashboard for detailed billing information
+- Payment issues are usually resolved within 2-3 business days
+- We accept major credit cards and PayPal
+- For refund requests, contact our billing department
+- Billing cycles run monthly from the date of signup
+- You can download invoices from your account dashboard
+
+General Support:
+- Our support team is available 24/7 to help you
+- For urgent issues, please call our helpline: 1-800-SUPPORT
+- Email support is available at support@company.com
+- Live chat is available during business hours (9 AM - 6 PM EST)
+- Check our FAQ section for quick answers to common questions
+- Response time for email support is typically 2-4 hours
+
+Privacy and Security:
+- We take your privacy and data security seriously
+- Never share your login credentials with anyone
+- Report suspicious account activity immediately
+- We will never ask for your password via email or phone
+- Enable two-factor authentication for added security
+- Review your account activity regularly
+
+Service Features:
+- Our platform offers comprehensive complaint management
+- Track your complaint status in real-time
+- Receive email notifications about complaint updates
+- Access your complaint history anytime
+- Export your complaint data when needed
+- Multiple communication channels available for follow-up
+
+Frequently Asked Questions (FAQ):
+
+Q: How can I track my order?
+A: You can track your order by logging into your account and visiting the 'Orders' section. If you need further assistance, contact our support team.
+
+Q: What is your return policy?
+A: We accept returns within 30 days of delivery. Please visit our Returns page or contact support for more details.
+
+Q: How do I update my account information?
+A: Log in, go to 'Account Settings', and update your information. If you need help, our support team is here for you.
+
+Q: How do I contact customer support?
+A: You can reach us 24/7 at support@company.com, call 1-800-SUPPORT, or use the live chat on our website.
+
+Q: What payment methods do you accept?
+A: We accept major credit/debit cards, PayPal, and UPI. Check your account dashboard for more details.
+
+Q: How do I cancel my order?
+A: Orders can be cancelled within 2 hours of placement from your account dashboard. For urgent cancellations, contact support immediately.
+
+Q: Where can I find more help?
+A: Check our FAQ section or contact our support team for quick answers and assistance.
